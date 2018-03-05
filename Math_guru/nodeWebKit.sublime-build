@@ -1,0 +1,5 @@
+{
+    "cmd": ["/Users/saikrishnachinthapatla/.nvm/versions/node/v9.5.0/bin/node", "$file"],
+    "selector": "source.js"
+}
+
