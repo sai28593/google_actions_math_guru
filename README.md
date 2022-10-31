@@ -1,4 +1,4 @@
-# Goal: To develop an math app that can calculate math formulas on google home device.
+# Goal: To develop an math app that can calculate math formulas for students aged 6-12 on google home device.
 # My role:
 1. I'm the lead developer who designed the application end to end.
 2. I also acted as project manager in making sure we are delivering the project on time and clearing roadblocks. 
