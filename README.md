@@ -6,7 +6,7 @@
 # Result: Testing with customers showed us great results. We gained 96% satisfaction rate among customers. I secured A+ in the project.
 
 ## Project dates: 10/2/2017 - 12/09/2017
-## Location: Anna University, Chennai
+## Location: MIT, Chennai
 ## Team size: 5 
 ## Programming languages: javascript, node js.
 ## Database: MySql
