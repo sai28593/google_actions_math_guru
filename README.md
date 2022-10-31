@@ -9,5 +9,6 @@
 ## Location: Anna University, Chennai
 ## Team size: 5 
 ## Programming languages: javascript, node js.
+## Database: MySql
 ## Cloud: Google cloud
 
